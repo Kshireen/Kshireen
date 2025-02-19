@@ -10,16 +10,6 @@ I'm a **Machine Learning Engineer** and **Full-Stack Developer** passionate abou
 - 📊 Strong in **Data Science, Model Optimization, and System Design**
 - 📍 Based in **Mumbai, India**
 
-### 🏆 Featured Projects
-Here are some of my key projects:
-
-🚀 **[Kreomart Recommendation System](https://github.com/Kshireen/kreomart)** - Content-based recommendation system for an e-commerce platform.
-
-📝 **[Sentiment Analysis](https://github.com/Kshireen/SentimentAnalysis)** - NLP model analyzing user sentiment in textual data.
-
-📈 **[Forecasting Energy Demand](https://github.com/Kshireen/Forecasting-Energy-Demand)** - Predictive analytics for energy consumption using time-series forecasting.
-
-🎨 **[Search Component with Autocomplete](https://github.com/Kshireen/SearchComponent)** - Optimized search bar using `Fuse.js` and Next.js for efficient search experience.
 
 ### 📫 Let's Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/kshireen)
