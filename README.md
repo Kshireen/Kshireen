@@ -1,18 +1,21 @@
-### Hi there, I'm Ruslan! 👋
+# Hi there, I'm Shireen Khan! 👋
 
-I'm a **Machine Learning Engineer** and **Full-Stack Developer** passionate about building AI-powered solutions, recommendation systems, and scalable web applications. I enjoy solving challenging problems and continuously learning new technologies to stay ahead in the field.
+I am a Machine Learning Engineer and Backend Developer specializing in scalable AI-powered solutions, low-latency Information Retrieval (IR) systems, and high-concurrency data pipelines. I engineer production-grade architectures that bridge complex backend infrastructure with advanced Generative AI orchestration.
 
-### 🚀 About Me
-- 💻 Specializing in **Machine Learning, Deep Learning, and Generative AI**
-- 🔍 Experienced in **NLP, Recommendation Systems, and AI-powered applications**
-- 🌐 Full-stack developer proficient in **Django, Next.js, and React**
-- ⚙️ Love working with **Python, TypeScript, HTMX, and Tailwind CSS**
-- 📊 Strong in **Data Science, Model Optimization, and System Design**
-- 📍 Based in **Mumbai, India**
+📍 Based in Mumbai, India  
+💼 [Connect with me on LinkedIn](https://linkedin.com) | ✉️ [Email Me](mailto:kshireen30@gmail.com)
 
+---
 
-### 📫 Let's Connect!
-💼 [LinkedIn](https://www.linkedin.com/in/kshireen)
+### 🚀 Core Expertise
 
-Feel free to check out my repositories, contribute, or reach out for collaborations! 🚀
+*   **Artificial Intelligence & Search:** Large-Scale Knowledge Graphs, Semantic Search, Dense Vector Embeddings, Relevance Tuning, LLM Orchestration (LangChain), Natural Language Processing (NLP).
+*   **Backend & Distributed Systems:** High-Throughput Relational Schema Design, Multi-Tenant Isolation, Asynchronous Task Queuing, Race-Condition Resolution, Thread-Pool Optimization.
+*   **Full-Stack Ecosystem:** Python (Django), Java (Core Concurrency), JavaScript/TypeScript (Next.js, React), PostgreSQL, Redis, Celery, AWS (EC2, S3, RDS).
+
+---
+
+### 🏗️ Highlighted Architecture: Three-Layer Knowledge Graph
+
+I am currently developing an enterprise-grade, multi-modal semantic search ontology framework designed around a strict **Separation of Concerns**. This model isolates linguistic variables from core business logic, ensuring downstream ML models are completely plug-and-play.
 
